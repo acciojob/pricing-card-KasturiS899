@@ -1,1 +1,19 @@
 /*  your css code here. If applicable */
+.main{
+	padding:20px;
+	text-align:center;
+}
+#buy{
+	color:white;
+	background-color:red;
+	border-radius:10px;
+	padding:20px;
+	text-decoration:none;
+	margin:10px;
+}
+
+p{
+	margin:10px
+	
+	
+}
