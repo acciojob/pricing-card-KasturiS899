@@ -2,6 +2,7 @@
 .main{
 	padding:20px;
 	text-align:center;
+	
 }
 #buy{
 	color:white;
@@ -10,10 +11,9 @@
 	padding:20px;
 	text-decoration:none;
 	margin:10px;
+	border:none;
 }
 
-p{
-	margin:10px
 	
 	
 }
